@@ -1,6 +1,6 @@
 # Ranch Expenses
-year for tax purposes. 
-A simple Expenses App that I made for my Father-in-Law. He needed a program to keep track of his expenses for his ranch and create a print out at beginning of the next year for his tax man
+
+This is a simple Expenses App that I made for my Father-in-Law. He needed a program to keep track of his expenses for his ranch and create a print out at beginning of the next year for his tax man
 
 ##Languages
 
