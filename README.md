@@ -26,12 +26,22 @@ around the MVC design principles as I built this.
 
 My father-in-law is a 60+ year-old-man who will not let go of his flip phone and calls Facebook "Spacebook". Therefore a very simple design was absolutely necessary.  
 
-## Programming Philosophy
+## Objects
 
 This program has the following objects:
 
 1. Expense headings or types such as Cattle feed, Randy house. 
 2. Expense Entries-These are the products and services purchased for the ranch. Required info is Date, Expense type (dropdown), and amount. There is also an optional Note fied.
+
+## Programming Philosophy
+
+First, I am using the KISS principle (Keep it simple stupid). Note, I tried to make a balance between simple for the user and as simple as possible for a programming. I made sure to comment extensively.
+
+Second, I tried use Object Oriented PHP and dependensy injection. There is probably easier ways to program, but I tried to eliminate any way that my father-in-law could destroy anything.
+
+## Have a crack at it!
+
+Feel free to clone it and play around with it! That's how we all learn!
 
 ## Demo
 [http://expenses.rickcollins.info](http://expenses.rickcollins.info)
